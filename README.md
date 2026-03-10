@@ -10,7 +10,7 @@
   <img src="img3.jpeg" alt="Menu Page 4">
   <img src="img4.jpeg" alt="Menu Page 5">
   <img src="img5.jpeg" alt="Menu Page 6">
-  <img src="img6.jpeg" alt="Menu Page 7">
+  <img src="img2_6 2.jpeg" alt="Menu Page 7">
   <img src="img7.jpeg" alt="Menu Page 8">
   <img src="img8.jpeg" alt="Menu Page 9">
   <img src="img9.jpeg" alt="Menu Page 10">
